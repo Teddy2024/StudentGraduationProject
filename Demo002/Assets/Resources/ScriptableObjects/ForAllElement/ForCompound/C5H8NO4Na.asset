@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: C5H8NO4Na
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: C5H8NO4Na
+    description: "MSG\uFF0CKing of Flavor!!!!"
+    dicDescription: "\u9EA9\u80FA\u9178\u9209\uFF08Monosodium glutamate, MSG\uFF09\uFF0C\u53C8\u7A31\u5473\u7CBE\u3001\u5473\u7D20\uFF0C\u662F\u9EA9\u80FA\u9178\u7684\u9209\u9E7D\uFF0C\u5C6C\u65BC\u5929\u7136\u7684\u6700\u8C50\u5BCC\u7684\u975E\u5FC5\u9700\u80FA\u57FA\u9178\u4E4B\u4E00\u3002
+      \u97D3\u570B\u548C\u4E2D\u570B\u83DC\u666E\u904D\u4F7F\u7528\u9EA9\u80FA\u9178\u9209\u3002\u9C39\u9B5A\uFF08\u67F4\u9B5A\u7247\uFF09\u3001\u96DE\u8089\u3001\u8C6C\u8089\u3001\u725B\u8089\u7B49\u86CB\u767D\u8CEA\u6216\u4E7E\u9999\u83C7\u3001\u677E\u8338\u7B49\u83C7\u83CC\u985E\u7D93\u904E\u71AC\u716E\uFF0C\u4E5F\u53EF\u4EE5\u7372\u53D6\u76F8\u540C\u7269\u8CEA"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 98c2d68b845185a4a8f14f78976a8691, type: 2}
+  ButtonEffects:
+  - rid: 3896192503808524303
+  LevelEffects: []
+  Effects: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192503808524303
+      type: {class: ButtonProjectChange, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u7279\u5225\u8B8A\u5316"
+        _sprite: {fileID: 0}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: LiCl
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: LiCl
+    description: "\u6C2F\u5316\u92F0"
+    dicDescription: "\u6C2F\u5316\u92F0\uFF08\u5316\u5B78\u5F0F\uFF1ALiCl\uFF09\u662F\u4E00\u500B\u9E7C\u91D1\u5C6C\u9E75\u5316\u7269\uFF0C\u5BA4\u6EAB\u4E0B\u70BA\u767D\u8272\u6613\u6F6E\u89E3\u7684\u56FA\u9AD4\u3002\n\u6C2F\u5316\u92F0\u70BA\u6C2F\u5316\u9209\u578B\u7D50\u69CB\uFF0C\u5176\u4E2D\u7684\u5316\u5B78\u9375\u4E26\u975E\u5178\u578B\u7684\u96E2\u5B50\u9375\uFF0C\u56E0\u6B64\u5B83\u53EF\u4EE5\u6EB6\u65BC\u5F88\u591A\u6709\u6A5F\u6EB6\u5291\u4E2D\uFF0C\u8207\u4E59\u9187\u3001\u7532\u9187\u3001\u80FA\u985E\u90FD\u53EF\u4EE5\u5F62\u6210\u7D44\u6210\u4E0D\u540C\u7684\u52A0\u5408\u7269\u3002\u9019\u500B\u6027\u8CEA\u53EF\u7528\u4F86\u5F9E\u9E7C\u91D1\u5C6C\u6C2F\u5316\u7269\u4E2D\u5206\u96E2\u51FA\u6C2F\u5316\u92F0\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 80caa1c3c4dabdf4a826ecfafb4ccad7, type: 2}
+  - {fileID: 11400000, guid: 2c6cd2b6933d71a44b9f677b40253e2a, type: 2}
+  ButtonEffects:
+  - rid: 3896192442781138945
+  - rid: 3896192497887215624
+  LevelEffects: []
+  Effects:
+  - rid: 3896192442781138944
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192442781138944
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: e0c54262d5c3f6c4c880c44e2558c5fc, type: 2}
+    - rid: 3896192442781138945
+      type: {class: ButtonSpecificBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6307\u5B9A\u6295\u5C04\u7269\u5F37\u5316"
+        SpecificTargets:
+        - H2O-p(Clone)
+        - H2O-p(Clone)(Clone)
+        buff: 6
+        BuffAmount: 0
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 5
+    - rid: 3896192497887215624
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 0
+        BuffAmount: 0
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0

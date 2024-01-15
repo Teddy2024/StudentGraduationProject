@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: CO
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: CO
+    description: "\u4E00\u6C27\u5316\u78B3\uFF0C\u6703\u4F7F\u6575\u4EBA\u4E2D\u6BD2\uFF0C\u4E26\u6563\u767C\u6709\u6BD2\u6C23\u9AD4"
+    dicDescription: "\u4E00\u6C27\u5316\u78B3\uFF08\u82F1\u8A9E\uFF1ACarbon monoxide\uFF09\uFF0C\u5206\u5B50\u5F0F\u70BACO\uFF0C\u662F\u7121\u8272\u3001\u7121\u81ED\u3001\u7121\u5473\u7684\u7121\u6A5F\u5316\u5408\u7269\u6C23\u9AD4\uFF0C\u6BD4\u7A7A\u6C23\u7565\u8F15\u3002\u5728\u6C34\u4E2D\u7684\u6EB6\u89E3\u5EA6\u751A\u4F4E\uFF0C\u4F46\u6613\u6EB6\u65BC\u6C28\u6C34\u3002\n\u7531\u65BC\u4E00\u6C27\u5316\u78B3\u8207\u9AD4\u5167\u8840\u7D05\u86CB\u767D\u7684\u89AA\u548C\u529B\u6BD4\u6C27\u8207\u8840\u7D05\u86CB\u767D\u7684\u89AA\u548C\u529B\u5927200\uFF0D300\u500D\uFF0C\u800C\u78B3\u6C27\u8840\u7D05\u86CB\u767D\u8F03\u6C27\u5408\u8840\u7D05\u86CB\u767D\u7684\u89E3\u96E2\u901F\u5EA6\u61623600\u500D\uFF0C\u7576\u4E00\u6C27\u5316\u78B3\u6FC3\u5EA6\u5728\u7A7A\u6C23\u4E2D\u9054\u523035ppm\uFF0C\u5C31\u6703\u5C0D\u4EBA\u9AD4\u7522\u751F\u640D\u5BB3\uFF0C\u6703\u9020\u6210\u4E00\u6C27\u5316\u78B3\u4E2D\u6BD2\uFF08\u53C8\u7A31\u7164\u6C23\u4E2D\u6BD2\uFF09\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  ButtonEffects: []
+  LevelEffects: []
+  Effects:
+  - rid: 3896192473996197888
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192473996197888
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: f14b7f9de03726f4cb84624019638f36, type: 2}

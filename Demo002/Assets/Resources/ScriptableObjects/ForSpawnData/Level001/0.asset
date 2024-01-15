@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb4133ea1956ae4398544a2d898fe65, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  ApplyTime: 0
+  EditSpawnEnemyEffects:
+  - rid: 7359889088015761408
+  references:
+    version: 2
+    RefIds:
+    - rid: 7359889088015761408
+      type: {class: SpawnEnemy, ns: , asm: Assembly-CSharp}
+      data:
+        enemyDataBase: {fileID: 11400000, guid: 74c4f2ec437ef25468c54ad2a3918de7, type: 2}
+        spawnArea: {x: 20, y: 20}
+        spawnTime: 2

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: K
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: -1445416380, guid: 65083b7becc80f84c8f4665efb03183e, type: 3}
+    elementID: 19
+    elementName: K
+    description: "\u751F\u6210\u9240\u539F\u5B50\n\u73A9\u5BB6\u901F\u5EA6 + 0.5"
+    dicDescription: "\u9240,\u662F\u4E00\u7A2E\u5316\u5B78\u5143\u7D20\uFF0C\u5316\u5B78\u7B26\u865F\u70BAK\uFF08\u6E90\u65BC\u62C9\u4E01\u8A9E\uFF1AKalium\uFF09\uFF0C\u539F\u5B50\u5E8F\u6578\u70BA19\uFF0C\u539F\u5B50\u91CF\u70BA39.0983
+      u\u3002\u9240\u5143\u7D20\u5728\u81EA\u7136\u754C\u88E1\u50C5\u4EE5\u96E2\u5B50\u5316\u5408\u7269\u5B58\u5728\uFF0C\u662F\u4E00\u7A2E\u67D4\u8EDF\u7684\u9280\u767D\u8272\u9E7C\u6027\u91D1\u5C6C\u3002\u5728\u7A7A\u6C23\u4E2D\u6703\u8FC5\u901F\u6C27\u5316\uFF0C\u9047\u6C34\u6703\u5287\u70C8\u53CD\u61C9\uFF0C\u7522\u751F\u8DB3\u5920\u7684\u71B1\u91CF\u4EE5\u9EDE\u71C3\u53CD\u61C9\u4E2D\u91CB\u653E\u7684\u6C2B\u6C23\uFF0C\u4E26\u653E\u51FA\u85CD\u7D2B\u8272\u7684\u706B\u7130\u3002"
+  elementType: 0
+  _compoundMaterials: []
+  ButtonEffects:
+  - rid: 3896192438206726147
+  LevelEffects: []
+  Effects:
+  - rid: 3896192168147025921
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192168147025921
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: 9575ac9b13d4a104e8967bde219c54d5, type: 2}
+    - rid: 3896192438206726147
+      type: {class: ButtonPlayerBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u73A9\u5BB6\u5F37\u5316"
+        buff: 1
+        BuffAmount: 0.5

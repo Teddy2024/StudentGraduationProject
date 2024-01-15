@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: NH4OH
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: NH4OH
+    description: NH4OH
+    dicDescription: "\u6C28\u6C34\uFF08Ammonia solution\uFF09\u662F\u6307\u6C28\u6C23\uFF08NH3\uFF09\u6EB6\u89E3\u65BC\u6C34\u4E2D\u7684\u6DB2\u9AD4\uFF0C\u53EF\u4EE5\u5BEB\u4F5CNH3(aq)\u3002\u5B83\u5177\u6709\u5F37\u70C8\u7684\u523A\u9F3B\u6C23\u5473\uFF0C\u662F\u4E00\u7A2E\u5177\u6709\u5F31\u9E7C\u6027\u7684\u6DB2\u9AD4\u3002\u5728\u6C28\u6C34\u4E2D\uFF0C\u6C28\u6C23\u5206\u5B50\u6703\u767C\u751F\u5FAE\u5F31\u7684\u6C34\u89E3\u53CD\u61C9\uFF0C\u751F\u6210\u6C2B\u6C27\u6839\u96E2\u5B50\uFF08OH-\uFF09\u548C\u92A8\u6839\u96E2\u5B50\uFF08NH4+\uFF09\u3002\u904E\u53BB\u7684\u5316\u5B78\u66F8\u7C4D\u4E2D\u5E38\u5C07\u6C28\u6C34\u7684\u7D44\u6210\u5BEB\u4F5C\u300CNH4OH\u300D\u6216\u300CNH3\u22C5H2O\u300D\uFF0C\u4F46\u4E8B\u5BE6\u4E0A\u300C\u6C2B\u6C27\u5316\u92A8\u300D\u4E26\u4E0D\u5B58\u5728\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  ButtonEffects:
+  - rid: 3896192503808524298
+  - rid: 3896192503808524299
+  LevelEffects:
+  - rid: 3896192503808524300
+  Effects:
+  - rid: 8941438111666929666
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192503808524298
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 0
+        BuffAmount: 5
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192503808524299
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 0
+        BuffAmount: 0
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192503808524300
+      type: {class: LevelAllEnemy, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6240\u6709\u6575\u4EBA"
+        enemyEffect: 0
+        debuff: 1
+        damage: 0
+        backForce: 0
+    - rid: 8941438111666929666
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: bfbff9ace819dce46bd235f5986235e6, type: 2}

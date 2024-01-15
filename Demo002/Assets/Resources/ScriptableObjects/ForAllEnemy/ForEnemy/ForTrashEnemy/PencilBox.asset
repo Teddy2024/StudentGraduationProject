@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7f890743cb1f342a419bbbcb0d3c1c, type: 3}
+  m_Name: PencilBox
+  m_EditorClassIdentifier: 
+  faction: 1
+  _enemyStats:
+    enemySp: {fileID: -1206343376, guid: 46361c634ece2d24ba3974c997afe565, type: 3}
+    hitSound: {fileID: 8300000, guid: 902828a83676948b2a085a2c006596fd, type: 3}
+    enemyName: PencilBox
+    enemyHealth: 800
+    enemyDamage: 4.5
+    rewardExperience: 5
+    enemySpeed: 2.5
+    enemyDescription: 
+  prefab: {fileID: 3529350891338570338, guid: e1a3530d6b9d8c1498a2e3f78352a0e7, type: 3}
+  enemyType: 0

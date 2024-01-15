@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: H2S
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: H2S
+    description: "\u786B\u5316\u6C2B\uFF0C\u81F4\u547D\u6C23\u9AD4\uFF0C\u4F7F\u6575\u4EBA\u7372\u5F97\u8150\u8755\u4E26\u53D7\u50B7"
+    dicDescription: "\u786B\u5316\u6C2B\u662F\u7121\u6A5F\u5316\u5408\u7269\uFF0C\u5316\u5B78\u5F0F\u70BAH2S\u3002\u6B63\u5E38\u662F\u7121\u8272\u3001\u6613\u71C3\u7684\u9178\u6027\u6C23\u9AD4\uFF0C\u4E5F\u662F\u4E00\u7A2E\u6C27\u65CF\u5143\u7D20\u7684\u6C2B\u5316\u7269\u3002\u786B\u5316\u6C2B\u662F\u6025\u6027\u5287\u6BD2\u7269\u8CEA\uFF0C\u5177\u6709\u81ED\u96DE\u86CB\u5473\uFF0C\u5438\u5165\u5C11\u91CF\u9AD8\u6FC3\u5EA6\u786B\u5316\u6C2B\u53EF\u65BC\u77ED\u6642\u9593\u5167\u81F4\u547D\u3002\u4F4E\u6FC3\u5EA6\u7684\u786B\u5316\u6C2B\u5C0D\u773C\u3001\u547C\u5438\u7CFB\u7D71\u53CA\u4E2D\u6A1E\u795E\u7D93\u90FD\u6709\u5F71\u97FF\u3002\u5B83\u6709\u6BD2\uFF0C\u6709\u8150\u8755\u6027\uFF0C\u9084\u53EF\u4EE5\u88AB\u71C3\u71D2\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 1f7cf55db580a644f991fdb6418d0654, type: 2}
+  - {fileID: 11400000, guid: 3c0687c96d0891645822f0a44b5fff6a, type: 2}
+  ButtonEffects:
+  - rid: 3896192473996197891
+  - rid: 3896192477386506243
+  LevelEffects: []
+  Effects:
+  - rid: 3896192113246732290
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192113246732290
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: af23cff0e6c999848bf3ffc418592ea7, type: 2}
+    - rid: 3896192473996197891
+      type: {class: ButtonSpecificBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6307\u5B9A\u6295\u5C04\u7269\u5F37\u5316"
+        SpecificTargets:
+        - S-p(Clone)
+        buff: 3
+        BuffAmount: 500
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192477386506243
+      type: {class: ButtonPlayerBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u73A9\u5BB6\u5F37\u5316"
+        buff: 1
+        BuffAmount: 0.3

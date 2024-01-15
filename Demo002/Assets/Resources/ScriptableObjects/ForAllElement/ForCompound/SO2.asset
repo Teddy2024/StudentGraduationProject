@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: SO2
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: SO2
+    description: SO2
+    dicDescription: "\u4E8C\u6C27\u5316\u786B\uFF0C\u5316\u5B78\u5F0F\u662FSO\u2082\u3002\u662F\u6700\u5E38\u898B\u7684\u786B\u6C27\u5316\u7269\u3002\u7121\u8272\u6C23\u9AD4\uFF0C\u6709\u5F37\u70C8\u523A\u6FC0\u6027\u6C23\u5473\u3002\u5927\u6C23\u4E3B\u8981\u6C61\u67D3\u7269\u4E4B\u4E00\u3002\u706B\u5C71\u7206\u767C\u6642\u6703\u5674\u51FA\u8A72\u6C23\u9AD4\uFF0C\u5728\u8A31\u591A\u5DE5\u696D\u904E\u7A0B\u4E2D\u4E5F\u6703\u7522\u751F\u4E8C\u6C27\u5316\u786B\u3002\u7531\u65BC\u7164\u548C\u77F3\u6CB9\u901A\u5E38\u90FD\u542B\u6709\u786B\u5316\u5408\u7269\uFF0C\u56E0\u6B64\u71C3\u71D2\u6642\u6703\u751F\u6210\u4E8C\u6C27\u5316\u786B\u3002\u7576\u4E8C\u6C27\u5316\u786B\u6EB6\u65BC\u6C34\u4E2D\uFF0C\u6703\u5F62\u6210\u4E9E\u786B\u9178\u3002\u82E5\u628ASO\u2082\u9032\u4E00\u6B65\u6C27\u5316\uFF0C\u901A\u5E38\u5728\u50AC\u5316\u5291\u5982\u4E8C\u6C27\u5316\u6C2E\u7684\u5B58\u5728\u4E0B\uFF0C\u4FBF\u6703\u751F\u6210\u786B\u9178\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 3c0687c96d0891645822f0a44b5fff6a, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  ButtonEffects:
+  - rid: 3896192704885293056
+  LevelEffects: []
+  Effects: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192704885293056
+      type: {class: ButtonAllItem, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6240\u6709\u9053\u5177"

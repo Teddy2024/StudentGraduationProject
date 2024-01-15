@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: H
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 1054214568, guid: 65083b7becc80f84c8f4665efb03183e, type: 3}
+    elementID: 1
+    elementName: H
+    description: "\u751F\u6210\u6C2B\u539F\u5B50\n\u5143\u7D20\u653B\u64CA\u529B
+      + 1.5"
+    dicDescription: "\u6C2B\uFF08Hydrogenium\uFF09\uFF0C\u662F\u4E00\u7A2E\u5316\u5B78\u5143\u7D20\uFF0C\u5143\u7D20\u7B26\u865FH\uFF0C\u5728\u5143\u7D20\u9031\u671F\u8868\u4E2D\u4F4D\u65BC\u7B2C\u4E00\u4F4D\u3002\u6C2B\u901A\u5E38\u7684\u55AE\u8CEA\u5F62\u614B\u662F\u6C2B\u6C23\uFF0C\u7121\u8272\u7121\u5473\u7121\u81ED\uFF0C\u662F\u4E00\u7A2E\u6975\u6613\u71C3\u71D2\u7684\u7531\u96D9\u539F\u5B50\u5206\u5B50\u7D44\u6210\u7684\u6C23\u9AD4\uFF0C\u6C2B\u6C23\u662F\u6700\u8F15\u7684\u6C23\u9AD4\u3002\u91AB\u5B78\u4E0A\u7528\u6C2B\u6C23\u4F86\u6CBB\u7642\u75BE\u75C5\u3002"
+  elementType: 0
+  _compoundMaterials: []
+  ButtonEffects:
+  - rid: 3896192438206726146
+  LevelEffects: []
+  Effects:
+  - rid: 8941437766563266560
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192438206726146
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 1
+        BuffAmount: 1.5
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 8941437766563266560
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: f39ef3dd25c165a438bd62b565fe147a, type: 2}

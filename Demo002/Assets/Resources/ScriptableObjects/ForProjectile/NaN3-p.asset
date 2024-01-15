@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3382f8c3bfd43e34683528c306ede121, type: 3}
+  m_Name: NaN3-p
+  m_EditorClassIdentifier: 
+  _projectileStats:
+    speed: 5
+    damage: 50
+    knockBackForce: 3500
+    stayTime: 5
+    penetrate: 1
+  Prefab: {fileID: -6342803207448395047, guid: d6a8be989f2bf114bbf1e96d76e61cbb, type: 3}
+  spawnDelayTime: 1

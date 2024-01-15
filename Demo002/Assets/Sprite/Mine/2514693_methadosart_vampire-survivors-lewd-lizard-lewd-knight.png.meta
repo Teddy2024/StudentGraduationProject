@@ -1,0 +1,4398 @@
+fileFormatVersion: 2
+guid: 29a0cb3cd80717f45b7936609fe38c24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 388
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde363b48f3b3a499b10f75e7a357df
+      internalID: 713557379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 389
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bc93233050e443a25174605e825d7
+      internalID: -2037417965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 389
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e013cf2f913c459bb85f107b55f87
+      internalID: -243170378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd94e2e8525e7243b6f64db597ae673
+      internalID: -1123188965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 389
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19749bc93bb8a540b0490254e66dc41
+      internalID: -354784370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 389
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ad033e5b2de5479a34a4366c46cac
+      internalID: 1408092059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 389
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2982a5952aa14d80fcc598fec00ec
+      internalID: -485148253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 389
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36b04b8748c544682dac5a840fe721
+      internalID: 1927320376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 390
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1b5c943d0f9b439ca570f48c35577
+      internalID: -1426305675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 389
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc8adb021d7f34dad3b1a9799c5759
+      internalID: 1142514496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 390
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2889e349ce142d3478f379558e07c252
+      internalID: -1905885107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 395
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335b92de01fd9e45b271dba088c6cd5
+      internalID: 1293638704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_12
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 396
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7eecb092322864ba1e714e5fd9364d
+      internalID: 1658745034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 396
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2b02db429ad044a64aa787aa680d3
+      internalID: -305654837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 397
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be46449a2248b45b77f7e393fea533
+      internalID: 2029287524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 397
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4ea2334493154194f32932fa26d9b
+      internalID: -741597532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 356
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8943226a4e424eaad4372823d8684
+      internalID: -546684446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 356
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d8e1ba457f2940870ce3922fa73f7
+      internalID: -1691651626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 356
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501a1c3fedf34f43a188dba94b26ac0
+      internalID: 394515332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 356
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b79b4fa30f5884e8e68e36ce53af4a
+      internalID: -1027453889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 356
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c640bb7a391aec4e95ac1a4721152b3
+      internalID: -685704912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a49278bb07ce1438ea68e4ff4c65ee
+      internalID: -1568324822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 356
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc6f54cc1f33b4a8fb7c1124a5a228
+      internalID: 781044267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 356
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7322a69e8ae7de4384c1d7a7b5c060b
+      internalID: 1046356177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 357
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d47e2b980e336479d40d177a39ab12
+      internalID: 568379654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 357
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804a5d7463a9be4ba2973d7251e9dff
+      internalID: -1788910061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 357
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5071e7dca3f0c4c9d96de76e64524a
+      internalID: 920488289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 358
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0134e5d8f7d2a9a4c99ab558d5cf5b76
+      internalID: 577349422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 358
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04bcabec6559841a824982e479871e
+      internalID: 693786907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 358
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2143cb9da216449971ec08484098f
+      internalID: 2045954712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 358
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36675f5e6cbff7d4f884d11f48c5ca84
+      internalID: -1276398882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 358
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27485108c0e74846a059b9e783c9c59
+      internalID: 711280221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 357
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c130ae9e222654096a40c98bba72ea
+      internalID: -2135934175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 357
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d080e71d0028c4badb909228f6fcbb
+      internalID: 935831753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 323
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62bff581b95a9d49bbb2e08c900e05a
+      internalID: -1196875124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 323
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2486e805fbbe54fb7ec9623c26cdc7
+      internalID: 617892492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 323
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574efe34ccfbcc4c897368fe9e3d36e
+      internalID: -724893590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 323
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d99b4d0e18c042abf96de9507e74d
+      internalID: 529437524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 323
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92dbe1327621a94b85aa111e8db85d7
+      internalID: 874689575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 323
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d00199ed097c9428c6cdac8345ef87
+      internalID: -524886378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 323
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f42800a6c3bad4989b0dcf3a900151
+      internalID: 325873105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 323
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77479894bea4ecb4faa271b2d8752c99
+      internalID: 1796908302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 323
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a367a6e2fa4e5458b745bbfa7f0270
+      internalID: -225724025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 323
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc54fded76ceaa46b8df303914048e2
+      internalID: -2021937487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 324
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e715171a89cbd4fbde8a4e66b1c126
+      internalID: 325501083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_45
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 323
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae575b12afc74142a2e9fc48225151d
+      internalID: 47298800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 323
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6724726243dbc4db3492e03bf066af
+      internalID: -1865591016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 323
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a44565b4f0aa4b8349be6336edff1
+      internalID: 963683289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_48
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 324
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0119713a39bee45a01be53d29cd4d6
+      internalID: 1250837011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb27905a423d6b49b5f08039adee4b9
+      internalID: 982091408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36ec20037246c4a8be237453fc7d67
+      internalID: -1935159492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23852d964fd648f4c86d4fdd91ef0a78
+      internalID: 824122875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d2b776c3fd5a478011a1c843d6318
+      internalID: -1433151403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 290
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdfd0c3c4e86c547853f2e0b66912cd
+      internalID: 1194819550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 290
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebf21b638087e498e1e96938d44623
+      internalID: -128383637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 290
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d3ab434fd576145bb3af191c0f934e
+      internalID: 516994574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 290
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa550a764a87ace498ebaba1a62c14f2
+      internalID: -120676879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a12fac91976fb4aa6364f24ac44248
+      internalID: -1663409079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 290
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ce9687a071bc4182c3d5c06cb34c1
+      internalID: 429883143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e188e978432f14e9b49fada504279b
+      internalID: -2134221835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_60
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 290
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492384de34e41dc408f0417d3f50b79b
+      internalID: 1423096364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 290
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0087941cc7ed704b9b86588db790a7a
+      internalID: -499247503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_62
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 290
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c89150e38f0194c94a8c534706e1b7
+      internalID: -1007838749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 290
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066fe7a2a7cc7c4785011f74a7de67c
+      internalID: 657304774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 290
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734820bc004fc54b8b27c7b49e1de65
+      internalID: -1982842120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_65
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 293
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373511b360d5402448dece458ccecc81
+      internalID: -1489801715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 257
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223835279c512934e86df160e28bbe8c
+      internalID: 701042347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 257
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e3f76af7cbc7f4ebeaec43f5376c92
+      internalID: 1553598291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_68
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 257
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b110e0d1bda224abba54f03d1402cf
+      internalID: 986048947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_69
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 257
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e3fe9a3a786c48835257cf736d6d8
+      internalID: -1061347048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 257
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14714a16ec7feb043989d437b2118636
+      internalID: 486905231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 257
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6564e4ce17893449839eff25ac69be
+      internalID: 1421658173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 257
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d856721fa18b4898b45373dc6583b
+      internalID: 1788198148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 257
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d898b7ae8d49ab4b9f352aae1faf262
+      internalID: -1453894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df95cc0ed88bca1449ef9cda80ba1a5c
+      internalID: -480150504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 257
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9fac7393d001f4899278f059145bdb
+      internalID: -453315485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21003dc7b675e3447b5a8d22742180a3
+      internalID: 244432693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 257
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670860b9bb00d8343836ffc98f92b8bd
+      internalID: 952214114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 257
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f100983d56eacd47a410061c5e59242
+      internalID: 531814848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e99205f26cca45a80389caf02e82c
+      internalID: 2060161474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_80
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62463fb8065bbbe4c84a905020a9d3f5
+      internalID: 2005846384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_81
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 257
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a077969155d844a22db0e5ff857f6
+      internalID: -1470994835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb264b47585ec64bb006a64ba9f03eb
+      internalID: 9851201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14804914bd51d8c40a941eb734e5c4b7
+      internalID: 1404461797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962df53027a83949adc7f1b6ed7531d
+      internalID: -1720284931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2eebe15f805794a989ad8ea38fe4d7
+      internalID: 2040880521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592de5d271cf944ea12bd9a1aa66dfd
+      internalID: 1263842650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_87
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d66d22c5713c4bb044a7b2ea652cf
+      internalID: 1538488094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c4ade4fabdcd4089dec98e00bd36e
+      internalID: -319688906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce35ebf5ad000489c86deccfb92500
+      internalID: -1819643031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6997da9bc1aea846b3ded4d06857b80
+      internalID: -1451806566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 224
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176efc903c7ab3745a4cd57761e8da68
+      internalID: 508908785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 224
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3132685197a0e4ea4a05f472e4c3cc
+      internalID: 949000618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_93
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87534297531424946a9c9433b8585683
+      internalID: -837318744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13594d87d020070409103a84f5c16e75
+      internalID: -1042322561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ea0a27e1602f48b9b51b6377fe2df
+      internalID: -1453898470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_96
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 227
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19bc987a2ddba40aa09f3618d4cab8
+      internalID: -779049654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 191
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b9f03898df14a44bac0188c3dd7020
+      internalID: -46498639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4d335b0dfd474ab75e379d7ef42d3
+      internalID: -1918367184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 191
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4033cecae6a8c4a4498aa034f49f3129
+      internalID: 1528985089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cde3f73aba64e4fb17d791ccfe77bc
+      internalID: -1092924515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_101
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 191
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793034d0954e63243b8f0ab9f3fb8a1c
+      internalID: -1674444902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db2044661caf74f88a68a2349d4d97
+      internalID: -1489243148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e11b833c751d4394b2319b380fee8
+      internalID: -1253277254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d107d61cc4a04cae80bd10d18aa92
+      internalID: -676434332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ce1f6c0ad5de04faa8a52c7fd68c76
+      internalID: 1919967143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 191
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427731d7586c5a449329e0c0fcdc492
+      internalID: -2091668512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6dd5fe9b212a6479293b70ab61ebf9
+      internalID: 1011430560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_108
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880410ac0326d843bc82c08730fc221
+      internalID: -1446046541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_109
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eac454b9384e749a900cbf687e9cff
+      internalID: -1988414313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581adb3e1ba73c24ca184b8f07db0b3c
+      internalID: 1978846364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_111
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f02581ddefe92c479718ac43ebe67d0
+      internalID: 267090896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9d5c68b241bf4b8c188b7683c15e0
+      internalID: -471681501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_113
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f7e83226815b46972d45c9db5a056
+      internalID: -693299627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f14c092b9f33d4d9b38321da5b45a5
+      internalID: 1240435167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c055670a8c55bb4fb78bb47899b9e94
+      internalID: -1318271412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_116
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 157
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8265642b6e7946acc6ac8d41cddaf
+      internalID: 2025844047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_117
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 157
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dee268a2b54fe4c8e3c5272c3a775c
+      internalID: -201564229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_118
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 157
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde8cc130c85cc24fbbe8b6b709eede8
+      internalID: -2124872736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 157
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bdb450fec69b14d8d060cedacfefab
+      internalID: -1734539297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_120
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 157
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad256f5be8c78458c1814124214d18
+      internalID: 247509645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 158
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1162ca01a75febc47bf0c67c6d98b58e
+      internalID: 1482065802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_122
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe5a1959449184e9b4def244b6e9c1
+      internalID: 2075449401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_123
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 158
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98878a711e84d354e8ca5738e6f91b7b
+      internalID: -1259094036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_124
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32eaf0eaebdf34287873690e243ddb
+      internalID: -1753800973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 158
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d874816030b5a46bd13b7eabc91bb9
+      internalID: -826409027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_126
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df0f3eb9d6e6de438579c1dee96e501
+      internalID: 1108194616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_127
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0f446a6b85494e922535e624fb408
+      internalID: 1384322265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_128
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 158
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cfbd93cdca41348a0853338001a271
+      internalID: -1049994929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_129
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 158
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0373b456c429d74cb3677d451e5de83
+      internalID: 292749644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_130
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 158
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a86c96466943341806ee9c6f5b1bb9
+      internalID: -161538897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 123
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83b012da7df4644a5d1e3c1f551922
+      internalID: 98129802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_132
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952cc75a7f7ce3f49bc8775c5ca0fd3c
+      internalID: -2022406126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f77e69f5506884ba6572cdc530119b
+      internalID: 473126783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_134
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 123
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8538db3851ca442aacd61f69a20c3e
+      internalID: 1748039464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_135
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f7e5abb575cc40a34e683bc67b455
+      internalID: -33338571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03773d828568a4f8ad10237c6ab917
+      internalID: 358744831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_137
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 123
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c2b064fd0cf348baebd761a986760
+      internalID: 3099779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 123
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1f0adbaba24a48bd1bb7b07df7640
+      internalID: -1009443729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_139
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 123
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22bcbf876d5089428837c4b1010646c
+      internalID: -1953655054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 123
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e21216ce4f78c4fb7230f946dc9e68
+      internalID: -1923633920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_141
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 123
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d6ab5655ff044cb9eb20a2282c4b7
+      internalID: -1489584079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 123
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b59036c6e451a044ae273d2b2b83c21
+      internalID: -1179088335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_143
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 123
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1fea2fb1322f48ab4b15de4f38e5d
+      internalID: -540342843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_144
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 123
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82afd2e16457cb7428bb9565140a20ba
+      internalID: 167538085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_145
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 123
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba58dae0ab7be43874fd4382e76af6
+      internalID: 1225016883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_146
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 123
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84d59eeaf6b1247afd86b7da718613
+      internalID: 1410234841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_147
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 123
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003a2618c502684bb718a832bedc942
+      internalID: 1517981635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_148
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 89
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e131d2d210154dbc9c05e1a86f779
+      internalID: 36658653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_149
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 89
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed803ea3154c5e14bb7678e6e6c87502
+      internalID: 602473662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_150
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403728458256d574fa1621139eed191b
+      internalID: -644417906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00548b00ab874c459200834682fa1c9
+      internalID: 1091661763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_152
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 89
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745911b62fc669849a5387eb73e812bc
+      internalID: -199599621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_153
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 89
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af38dd0d9048514d8bbc044bc99ff39
+      internalID: 735852812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_154
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 89
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc1df6176e2c4489edc98cf1ddbb6d
+      internalID: 1216862379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 89
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49789f7322bbe8e4a83667d2a02bed26
+      internalID: 665721502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_156
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 89
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79324fe512f7146458f61498a31b9747
+      internalID: -1163928095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_157
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 89
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756c4b5ca783e945af079617d11c269
+      internalID: -575222764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_158
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 89
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd66b2c4c7563a41bedd08a7e72b302
+      internalID: -80199507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_159
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a86f00a72f6834283bbe68c67a6233
+      internalID: 1925232132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 89
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483382f5b21926949a35881271e7d6ac
+      internalID: 1579888357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_161
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 89
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cee0baabdfc3445954519304695951
+      internalID: -618700880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_162
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 89
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070859c57b4f0f46a0cbe227b9e032d
+      internalID: 239820594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_163
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f736b601de3c4459e35ee11e7054c9
+      internalID: -941064049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_164
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245740685974cb2438574879e150c850
+      internalID: 18833310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_165
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fc82f7793be04e9844ec62b7ba0ba
+      internalID: -1786213001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_166
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 50
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fb2fa335380d4db1c37e79b6b12c2
+      internalID: 1838371236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_167
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23233706c4cba6f48839ed597fe5be7d
+      internalID: 2089882169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_168
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 50
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8477b9af999e64e9f63ac0bf98e908
+      internalID: -2120436602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_169
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a457ff50d1a1438ce3f3a97df6b6e
+      internalID: 2041274674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_170
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 53
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a7eb7508631643b7616e99cccd8d2
+      internalID: -1520080129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_171
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 53
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8891216629e54e8a6505aacf7efe5
+      internalID: -844346011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_172
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0981928893d087f4ea7519fe075b180f
+      internalID: -2080231217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_173
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981131c5bd495d4b8f6cb40ab480615
+      internalID: 468825026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_174
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616df7c9c2afc446bd83ee08017d352
+      internalID: 621869387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_175
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 54
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5675b94aaabdbc44a96875e5d0a07ccc
+      internalID: -191140836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_176
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 54
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9448c11a976f3f4e8acc48b02371249
+      internalID: 511116629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_177
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 54
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ac7a66b9a97d49bc2baa252fa8cb3
+      internalID: 1166583329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_178
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 54
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66211f4ae355d524c92d524b2228440d
+      internalID: 1303158526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_179
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 54
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e487ce456c474cbbe19fe9d88fe5e
+      internalID: -1862681165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_180
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 55
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05206b7c62caa604f8aafb67fb81c1a9
+      internalID: -273877438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_181
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf4204b95cb9248b04ef582c99beb1
+      internalID: -30826672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_182
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35150c55a267d3488752871107bfab7
+      internalID: 1689286355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_183
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3f1b8f4246384c8a926180d5a2841
+      internalID: 316282690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a5f985ac2885d4a980f374fede0f5c
+      internalID: 630616614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_187
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce1365d21714be4c974ce13d4c4e5a4
+      internalID: 274505415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_190
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea04671220c10246aefd541a57fec3c
+      internalID: -528602310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_191
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082ad843160b33549a97f80c804ee92b
+      internalID: -207913348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_192
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e53366435ed1498bd46e43cc10652
+      internalID: 1758978095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_193
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ac738355bbf042957de5a5c6ae99d
+      internalID: -325704363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_194
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3950d283d2d84846b8cc5f8496d59ce
+      internalID: -867570410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_195
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a401c249b44c6d4a803ffbda9a613c1
+      internalID: 295543927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_196
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b24c7df0992a64f8860ce6e025a36c
+      internalID: 1330374732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_13: -305654837
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_52: -1433151403
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_95: -1453898470
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_107: 1011430560
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_31: 711280221
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_151: 1091661763
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_168: -2120436602
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_159: 1925232132
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_144: 167538085
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_48: 1250837011
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_99: 1528985089
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_171: -844346011
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_147: 1517981635
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_14: 2029287524
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_183: 316282690
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_180: -273877438
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_80: 2005846384
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_179: -1862681165
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_121: 1482065802
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_17: -1691651626
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_103: -1253277254
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_118: -2124872736
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_74: -480150504
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_184: 630616614
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_34: -1196875124
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_132: -2022406126
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_56: -120676879
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_53: 1194819550
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_75: -453315485
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_5: 1408092059
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_83: 1404461797
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_57: -1663409079
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_29: 2045954712
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_54: -128383637
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_127: 1384322265
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_8: -1426305675
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_153: 735852812
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_158: -80199507
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_112: -471681501
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_117: -201564229
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_172: -2080231217
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_36: -724893590
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_7: 1927320376
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_38: 874689575
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_60: 1423096364
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_76: 244432693
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_105: 1919967143
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_125: -826409027
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_195: 295543927
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_111: 267090896
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_152: -199599621
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_77: 952214114
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_143: -540342843
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_10: -1905885107
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_58: 429883143
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_51: 824122875
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_87: 1538488094
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_32: -2135934175
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_190: -528602310
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_47: 963683289
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_148: 36658653
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_136: 358744831
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_139: -1953655054
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_30: -1276398882
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_149: 602473662
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_61: -499247503
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_0: 713557379
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_82: 9851201
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_164: 18833310
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_73: -1453894302
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_94: -1042322561
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_43: -2021937487
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_91: 508908785
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_26: 920488289
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_174: 621869387
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_71: 1421658173
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_123: -1259094036
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_64: -1982842120
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_92: 949000618
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_59: -2134221835
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_126: 1108194616
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_72: 1788198148
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_162: 239820594
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_130: -161538897
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_68: 986048947
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_102: -1489243148
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_119: -1734539297
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_88: -319688906
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_106: -2091668512
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_176: 511116629
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_2: -243170378
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_141: -1489584079
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_65: -1489801715
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_161: -618700880
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_187: 274505415
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_116: 2025844047
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_86: 1263842650
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_33: 935831753
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_135: -33338571
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_18: 394515332
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_20: -685704912
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_21: -1568324822
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_163: -941064049
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_188: -969815134
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_167: 2089882169
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_23: 1046356177
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_108: -1446046541
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_194: -867570410
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_37: 529437524
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_16: -546684446
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_46: -1865591016
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_12: 1658745034
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_182: 1689286355
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_62: -1007838749
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_150: -644417906
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_134: 1748039464
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_69: -1061347048
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_145: 1225016883
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_67: 1553598291
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_28: 693786907
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_196: 1330374732
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_129: 292749644
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_35: 617892492
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_15: -741597532
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_93: -837318744
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_165: -1786213001
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_11: 1293638704
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_198: 407782080
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_41: 1796908302
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_98: -1918367184
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_156: -1163928095
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_175: -191140836
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_133: 473126783
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_63: 657304774
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_89: -1819643031
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_120: 247509645
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_173: 468825026
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_39: -524886378
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_128: -1049994929
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_24: 568379654
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_154: 1216862379
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_90: -1451806566
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_124: -1753800973
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_3: -1123188965
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_42: -225724025
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_27: 577349422
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_160: 1579888357
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_137: 3099779
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_191: -207913348
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_142: -1179088335
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_109: -1988414313
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_66: 701042347
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_189: -1859404941
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_4: -354784370
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_100: -1092924515
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_146: 1410234841
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_181: -30826672
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_178: 1303158526
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_9: 1142514496
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_79: 2060161474
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_155: 665721502
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_114: 1240435167
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_6: -485148253
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_192: 1758978095
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_50: -1935159492
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_110: 1978846364
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_45: 47298800
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_49: 982091408
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_166: 1838371236
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_131: 98129802
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_193: -325704363
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_44: 325501083
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_25: -1788910061
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_97: -46498639
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_19: -1027453889
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_22: 781044267
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_115: -1318271412
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_40: 325873105
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_81: -1470994835
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_140: -1923633920
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_185: -1537100135
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_113: -693299627
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_1: -2037417965
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_101: -1674444902
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_170: -1520080129
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_169: 2041274674
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_197: -1572244922
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_104: -676434332
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_177: 1166583329
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_96: -779049654
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_55: 516994574
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_70: 486905231
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_186: 202656697
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_85: 2040880521
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_138: -1009443729
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_78: 531814848
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_157: -575222764
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_122: 2075449401
+      2514693_methadosart_vampire-survivors-lewd-lizard-lewd-knight_84: -1720284931
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

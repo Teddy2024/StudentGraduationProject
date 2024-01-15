@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: N2O
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: N2O
+    description: 
+    dicDescription: "\u4E00\u6C27\u5316\u4E8C\u6C2E\uFF0C\u53C8\u7A31\u6C27\u5316\u4E9E\u6C2E\uFF0C\u4FD7\u7A31\u7B11\u6C23\uFF0C\u5316\u5B78\u5F0F\u70BAN\u2082O\uFF0C\u662F\u4E00\u7A2E\u7121\u8272\u6709\u751C\u5473\u6C23\u9AD4\uFF0C\u5728\u4E00\u5B9A\u689D\u4EF6\u4E0B\u80FD\u652F\u6301\u71C3\u71D2\uFF0C\u4F46\u5728\u5BA4\u6EAB\u4E0B\u7A69\u5B9A\uFF0C\u6709\u8F15\u5FAE\u9EBB\u9189\u4F5C\u7528\uFF0C\u5176\u9EBB\u9189\u4F5C\u7528\u65BC1799\u5E74\u7531\u82F1\u570B\u5316\u5B78\u5BB6\u6F22\u5F17\u840A\xB7\u6234\u7DAD\u767C\u73FE\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  ButtonEffects: []
+  LevelEffects: []
+  Effects: []
+  references:
+    version: 2
+    RefIds: []

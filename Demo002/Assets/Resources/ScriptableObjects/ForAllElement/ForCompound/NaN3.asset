@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: NaN3
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: NaN3
+    description: NaN3
+    dicDescription: "\u758A\u6C2E\u5316\u9209\uFF0C\u5316\u5B78\u5F0FNaN\u2083\uFF0C\u7121\u8272\u516D\u89D2\u5F62\u6676\u9AD4\uFF0C\u6613\u6EB6\u65BC\u6C34\u548C\u6DB2\u6C28\u3002\u5FAE\u6EB6\u65BC\u4E59\u9187\uFF0C\u4E0D\u6EB6\u65BC\u4E59\u919A\u3002\u5E38\u6EAB\u4E0B\u7A69\u5B9A\uFF0C\u9AD8\u6EAB\u5206\u89E3\u3002\u5728\u649E\u64CA\u4E0B\u7206\u70B8\u6027\u5206\u89E3\uFF1A
+      2NaN\u2083 \u2192 2Na + 3N\u2082 \u7406\u8AD6\u4E0A\u6BCF\u514B\u758A\u6C2E\u5316\u9209\u5206\u89E3\u53EF\u4EE5\u7522\u751F554\u6BEB\u5347\u7684\u6C2E\u6C23\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 98c2d68b845185a4a8f14f78976a8691, type: 2}
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  ButtonEffects:
+  - rid: 3896192526800125952
+  - rid: 3896192526800125953
+  - rid: 3896192526800125955
+  LevelEffects:
+  - rid: 3896192526800125954
+  Effects:
+  - rid: 3896192526800125956
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192526800125952
+      type: {class: ButtonSpecificBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6307\u5B9A\u6295\u5C04\u7269\u5F37\u5316"
+        SpecificTargets:
+        - CS2-p(Clone)
+        - CS2-p(Clone)(Clone)
+        buff: 1
+        BuffAmount: 10
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192526800125953
+      type: {class: ButtonSpecificBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6307\u5B9A\u6295\u5C04\u7269\u5F37\u5316"
+        SpecificTargets:
+        - CS2-p(Clone)
+        - CS2-p(Clone)(Clone)
+        buff: 2
+        BuffAmount: 4
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192526800125954
+      type: {class: LevelAllEnemy, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6240\u6709\u6575\u4EBA"
+        enemyEffect: 1
+        debuff: 0
+        damage: 50
+        backForce: 2500
+    - rid: 3896192526800125955
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 0
+        BuffAmount: 0
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 3896192526800125956
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: 935e5bf1b2cd9e9479aa83014932b7da, type: 2}

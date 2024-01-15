@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7f890743cb1f342a419bbbcb0d3c1c, type: 3}
+  m_Name: Eraser
+  m_EditorClassIdentifier: 
+  faction: 1
+  _enemyStats:
+    enemySp: {fileID: -1864183121, guid: 46361c634ece2d24ba3974c997afe565, type: 3}
+    hitSound: {fileID: 8300000, guid: 902828a83676948b2a085a2c006596fd, type: 3}
+    enemyName: Eraser
+    enemyHealth: 80
+    enemyDamage: 2.6
+    rewardExperience: 0
+    enemySpeed: 1.5
+    enemyDescription: 
+  prefab: {fileID: 3529350891338570338, guid: 027512aa972cce14db62b20c35c78cf9, type: 3}
+  enemyType: 0

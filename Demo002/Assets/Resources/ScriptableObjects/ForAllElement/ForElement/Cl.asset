@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: Cl
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 814440783, guid: 65083b7becc80f84c8f4665efb03183e, type: 3}
+    elementID: 17
+    elementName: Cl
+    description: "\u751F\u6210\u6C2F\u539F\u5B50\n\u5143\u7D20\u64CA\u9000\u529B
+      + 800"
+    dicDescription: "\u6C2F\uFF0C\u662F\u4E00\u7A2E\u5316\u5B78\u5143\u7D20\uFF0C\u5316\u5B78\u7B26\u865F\u70BACl\uFF0C\u539F\u5B50\u5E8F\u6578\u70BA17\uFF0C\u539F\u5B50\u91CF\u70BA35.453
+      u\uFF0C\u5C6C\u65BC\u9E75\u65CF\uFF08\u5373\u5468\u671F\u7CFB\u2166A\u65CF\uFF09\u3002\u6C2F\u662F\u7B2C\u4E8C\u8F15\u7684\u9E75\u7D20\uFF0C\u8655\u65BC\u6C1F\u548C\u6EB4\u4E4B\u9593\uFF0C\u56E0\u6B64\u6C2F\u7684\u975E\u91D1\u5C6C\u6027\u4ECB\u65BC\u5B83\u5011\u4E4B\u9593\u3002\u6C2F\u5728\u5BA4\u6EAB\u4E0B\u662F\u4E00\u7A2E\u6709\u5F37\u70C8\u523A\u6FC0\u6027\u6C23\u5473\u7684\u9EC3\u7DA0\u8272\u6709\u6BD2\u6C23\u9AD4\uFF0C\u5728\u6DB2\u5316\u5F8C\u8B8A\u70BA\u9EC3\u8272\u6CB9\u72C0\u6DB2\u9AD4\u3002\u5B83\u662F\u53CD\u61C9\u6027\u6975\u5F37\u7684\u5143\u7D20\u548C\u5F37\u6C27\u5316\u5291\u3002"
+  elementType: 0
+  _compoundMaterials: []
+  ButtonEffects:
+  - rid: 3896192438206726150
+  LevelEffects: []
+  Effects:
+  - rid: 8941438105866207235
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192438206726150
+      type: {class: ButtonProjectBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u6295\u5C04\u7269\u5F37\u5316"
+        buff: 3
+        BuffAmount: 800
+        BuffScale: {x: 0, y: 0, z: 0}
+        debuff: 0
+    - rid: 8941438105866207235
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: 4d66aa1c71a913449ba21dd342944364, type: 2}

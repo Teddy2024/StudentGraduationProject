@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3382f8c3bfd43e34683528c306ede121, type: 3}
+  m_Name: Cl-p
+  m_EditorClassIdentifier: 
+  _projectileStats:
+    speed: 10
+    damage: 4
+    knockBackForce: 1000
+    stayTime: 1.5
+    penetrate: 0
+  Prefab: {fileID: 635449473399611465, guid: 996bdf69dc9c6eb41add1a8a0541c46c, type: 3}
+  spawnDelayTime: 1

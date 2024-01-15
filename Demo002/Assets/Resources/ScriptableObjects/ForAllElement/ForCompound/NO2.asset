@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: NO2
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: NO2
+    description: NO2
+    dicDescription: "\u4E8C\u6C27\u5316\u6C2E\uFF0C\u662F\u6C2E\u6C27\u5316\u7269\u4E4B\u4E00\u3002\u5BA4\u6EAB\u4E0B\u70BA\u6709\u523A\u6FC0\u6027\u6C23\u5473\u7684\u7D05\u68D5\u8272\u9806\u78C1\u6027\u6C23\u9AD4\uFF0C\u6613\u6EB6\u65BC\u6C34\uFF0C\u6EB6\u65BC\u6C34\u90E8\u5206\u751F\u6210\u785D\u9178\u548C\u4E00\u6C27\u5316\u6C2E\u3002\u4E8C\u6C27\u5316\u6C2E\u5438\u5165\u5F8C\u5C0D\u80BA\u7D44\u7E54\u5177\u6709\u5F37\u70C8\u7684\u523A\u6FC0\u6027\u548C\u8150\u8755\u6027\u3002\u4F5C\u70BA\u6C2E\u6C27\u5316\u7269\u4E4B\u4E00\u7684\u4E8C\u6C27\u5316\u6C2E\uFF0C\u662F\u5DE5\u696D\u5408\u6210\u785D\u9178\u7684\u4E2D\u9593\u7522\u7269\uFF0C\u6BCF\u5E74\u6709\u5927\u7D04\u5E7E\u767E\u842C\u5678\u88AB\u6392\u653E\u5230\u5927\u6C23\u4E2D\uFF0C\u662F\u4E00\u7A2E\u4E3B\u8981\u7684\u5927\u6C23\u6C61\u67D3\u7269\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: 5a17b252cc8a71840978b58f8b3183d2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  - {fileID: 11400000, guid: 32f795617a028ae4593fdabd3f7dcce2, type: 2}
+  ButtonEffects: []
+  LevelEffects: []
+  Effects: []
+  references:
+    version: 2
+    RefIds: []

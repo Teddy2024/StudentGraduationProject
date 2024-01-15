@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c452732ba3f697429d08ebf667505d2, type: 3}
+  m_Name: CS2
+  m_EditorClassIdentifier: 
+  _elementStats:
+    elementSp: {fileID: 0}
+    elementID: 0
+    elementName: CS2
+    description: CS2
+    dicDescription: "\u4E8C\u786B\u5316\u78B3\u662F\u4E00\u7A2E\u5206\u5B50\u5F0F\u70BACS2\u7684\u7121\u8272\u6709\u6BD2\u6DB2\u9AD4\u3002\u7D14\u7684\u4E8C\u786B\u5316\u78B3\u6709\u985E\u4F3C\u6C2F\u4EFF\u7684\u82B3\u9999\u751C\u5473\uFF0C\u4F46\u662F\u901A\u5E38\u4E0D\u7D14\u7684\u5DE5\u696D\u54C1\u56E0\u70BA\u6DF7\u6709\u5176\u4ED6\u786B\u5316\u7269\uFF08\u5982\u7FB0\u57FA\u786B\u7B49\uFF09\u800C\u8B8A\u70BA\u5FAE\u9EC3\u8272\uFF0C\u4E26\u4E14\u6709\u4EE4\u4EBA\u4E0D\u6109\u5FEB\u7684\u721B\u863F\u8514\u5473\u3002CS2\u53EF\u6EB6\u89E3\u786B\u55AE\u8CEA\u6216\u767D\u78F7\u3002\r\n\u7531\u65BC\u4E8C\u786B\u5316\u78B3\u7D50\u69CB\u7C21\u55AE\uFF0C\u96D6\u7136\u5B83\u7684\u5206\u5B50\u4E2D\u542B\u6709\u78B3\u539F\u5B50\uFF0C\u4F46\u662F\u88AB\u8A8D\u70BA\u662F\u7121\u6A5F\u7269\u3002"
+  elementType: 1
+  _compoundMaterials:
+  - {fileID: 11400000, guid: ac172ffc919b6aa4bbb1fb135934389f, type: 2}
+  - {fileID: 11400000, guid: 3c0687c96d0891645822f0a44b5fff6a, type: 2}
+  - {fileID: 11400000, guid: 3c0687c96d0891645822f0a44b5fff6a, type: 2}
+  ButtonEffects:
+  - rid: 3896192477386506242
+  LevelEffects: []
+  Effects:
+  - rid: 3896192438206726158
+  references:
+    version: 2
+    RefIds:
+    - rid: 3896192438206726158
+      type: {class: AddProjectile, ns: , asm: Assembly-CSharp}
+      data:
+        DelayTime: 0
+        effectName: "\u6295\u5C04\u7269\u751F\u6210"
+        ProjectileData: {fileID: 11400000, guid: e24998d36e2e7dc4ab796be826a6f1fd, type: 2}
+    - rid: 3896192477386506242
+      type: {class: ButtonPlayerBuff, ns: , asm: Assembly-CSharp}
+      data:
+        effectName: "\u73A9\u5BB6\u5F37\u5316"
+        buff: 1
+        BuffAmount: 0.8
